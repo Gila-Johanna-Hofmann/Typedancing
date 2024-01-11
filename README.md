@@ -3,6 +3,9 @@ This was a beginner training project. I wanted to learn something about JS, CSS 
 
 Looking at the project now, I still think it's such a fun and nice idea to learn a little bit about JS, CSS and HTML but I would certainly write a more elegant way of executing the gif loops.
 
+# Usage
+Download the files and put them all in one folder. From there, open the index.html in a browser.
+
 # Technologies
 - HTML5
 - CSS
